@@ -9,6 +9,7 @@ SOLID Principles
 5. Dependency Inversion
 
 Data Encapsulation
+- Hiding unecessary details
 
 Inheritance
 
