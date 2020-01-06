@@ -14,5 +14,7 @@ Data Encapsulation
 Inheritance
 
 Polymorphism
+poly -> many, mor -> form
+=> many forms
 
 Abstraction
