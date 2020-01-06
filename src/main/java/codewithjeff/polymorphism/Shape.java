@@ -1,9 +1,7 @@
 package codewithjeff.polymorphism;
 
-public class Shape {
+public abstract class Shape {
     protected String name;
 
-    public double area(){
-        return 0.0;
-    }
+    public abstract double area();
 }
