@@ -13,6 +13,8 @@ Data Encapsulation
 
 Inheritance
 
+Don't create *deep* inheritance hierarchies
+
 Polymorphism
 
 poly -> many, mor -> form
