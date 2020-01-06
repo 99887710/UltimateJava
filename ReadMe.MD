@@ -1,25 +1,36 @@
-Java & OOP Core Concepts 
+# **Java & OOP Core Concepts**
 
-SOLID Principles
+## SOLID Principles
 
-1. Single-responsibility
-2. Open-closed 
-3. Liskov substitution 
-4. Interface segregation 
-5. Dependency Inversion
+1.  Single-responsibility
+2.  Open-closed
+3.  Liskov substitution
+4.  Interface segregation
+5.  Dependency Inversion
 
-Data Encapsulation
-- Hiding unecessary details
+## ***Core Concepts***
 
-Inheritance
+**Data Encapsulation**
 
-Don't create *deep* inheritance hierarchies
+-   Hiding unecessary details
 
-Polymorphism
+**Inheritance**
 
-poly -> many, mor -> form
-=> many forms
+ - Don't create  _deep_  inheritance hierarchies
 
-e.g. Shape can have triangle, rectangle...etc
 
-Abstraction
+**Polymorphism**
+
+poly -> many, 
+mor -> form 
+=> A method can have many forms
+
+e.g. Shape can have different ways of area calculation, e.g. triangle, rectangle...etc   
+
+**Abstraction**
+
+ - Reduce complexity
+
+**Decoupling**
+
+ - Reducing coupling by hiding unecessary details
