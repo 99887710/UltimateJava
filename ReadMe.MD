@@ -14,7 +14,10 @@ Data Encapsulation
 Inheritance
 
 Polymorphism
+
 poly -> many, mor -> form
 => many forms
+
+e.g. Shape can have triangle, rectangle...etc
 
 Abstraction
